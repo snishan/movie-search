@@ -125,9 +125,11 @@ Redux is used for state management with the following features:
 - [ ] Trailer integration
 - [ ] Social sharing features
 
-LIVE LINK:  https://movie-search-seven-psi.vercel.app/
-
 - TMDB for providing the movie database API
 - shadcn/ui for the beautiful UI components
 - Next.js team for the amazing framework
 - The open-source community for various tools and libraries
+
+
+## LIVE LINK
+   https://movie-search-seven-psi.vercel.app/
