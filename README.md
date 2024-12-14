@@ -48,7 +48,7 @@ A modern, responsive movie search application built with Next.js 14, Redux, and 
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/snishan/movie-search.git
 ```
 
 2. **Install dependencies**
